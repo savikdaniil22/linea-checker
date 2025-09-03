@@ -21,3 +21,4 @@ let addresses = [
   // ...
 ];
 ```
+Replace these with the wallet addresses you want to check.
