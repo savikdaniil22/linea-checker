@@ -29,8 +29,8 @@ Run the script with Node.js:
 node linea-allocations.mjs
 ```
 After execution, a file called allocations.csv will be created.
--First column → wallet address
--Second column → number of tokens (integer, fractional part removed)
+- First column → wallet address
+- Second column → number of tokens (integer, fractional part removed)
 
 ## Cleanup
 After you process the results, you can delete the file:
